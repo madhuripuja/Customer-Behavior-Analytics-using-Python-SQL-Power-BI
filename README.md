@@ -155,4 +155,4 @@ Based on the analysis, the following recommendations can help improve business p
 
 By using these insights, the company can improve customer engagement, increase revenue, and build stronger customer relationships.
 
-<img src="Customer Behavior Analysis Dashboard.png" width="900">
+<img src="Customer Behavior Analytics Dashboard.png" width="900">
