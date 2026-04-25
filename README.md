@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis using Python, SQL & Power BI
+# 🛍️ Customer Behavior Analysis using Python, SQL & Power BI
 
 ## 📊 Project Overview
 
@@ -154,3 +154,5 @@ Based on the analysis, the following recommendations can help improve business p
 - Improve retention strategies for repeat customers.
 
 By using these insights, the company can improve customer engagement, increase revenue, and build stronger customer relationships.
+
+<img src="Customer Behavior Analysis Dashboard.png" width="900">
